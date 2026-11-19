@@ -8,11 +8,11 @@ Proyecto de Big Data: pipeline **Bronce → Silver → Gold** sobre el dataset *
 
 | Criterio | Documento |
 |---|---|
-| Caso de uso | [`01_caso_de_uso.md`](01_caso_de_uso.md) |
-| Tema del beneficio | [`02_tema_beneficio.md`](02_tema_beneficio.md) |
-| Visualización | [`03_visualizacion.md`](03_visualizacion.md) |
-| Modelo | [`04_modelo.md`](04_modelo.md) |
-| Pipeline Medallion | [`entregable_final.ipynb`](entregable_final.ipynb) |
+| Caso de uso | [`docs/01_caso_de_uso.md`](docs/01_caso_de_uso.md) |
+| Tema del beneficio | [`docs/02_tema_beneficio.md`](docs/02_tema_beneficio.md) |
+| Visualización | [`docs/03_visualizacion.md`](docs/03_visualizacion.md) |
+| Modelo  | [`docs/04_modelo.md`](docs/04_modelo.md) |
+| Pipeline Medallion  | [`notebooks/entregable_final.ipynb`](notebooks/entregable_final.ipynb) |
 
 ## Resumen de resultados
 
