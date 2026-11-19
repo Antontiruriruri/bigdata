@@ -5,7 +5,9 @@ El tablero **"Tablero de Seguimiento de Ventas y Análisis Comercial"** se const
 - PDF completo: [`reports/Tablero_de_Seguimiento_de_Ventas.pdf`](../reports/Tablero_de_Seguimiento_de_Ventas.pdf)
 - Captura general: `images/dashboard_completo.png`
 
-![Tablero completo](../images/dashboard_completo.png)
+<img width="1393" height="1276" alt="image" src="https://github.com/user-attachments/assets/09edd9d1-bdb3-4dc2-b812-68589a582035" />
+
+
 
 ## Indicadores principales
 
