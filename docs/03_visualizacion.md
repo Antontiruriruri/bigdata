@@ -2,7 +2,7 @@
 
 El tablero **"Tablero de Seguimiento de Ventas y Análisis Comercial"** se construyó en Databricks sobre las tablas de la capa Gold y Silver.
 
-- PDF completo: [`reports/Tablero_de_Seguimiento_de_Ventas.pdf`](../reports/Tablero_de_Seguimiento_de_Ventas.pdf)
+
 - Captura general: `images/dashboard_completo.png`
 
 ![Tablero completo](../images/dashboard_completo.png)
