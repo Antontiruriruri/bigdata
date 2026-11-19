@@ -7,7 +7,7 @@ Proyecto de Big Data: pipeline **Bronce → Silver → Gold** sobre el dataset *
 ## Criterios de evaluación y dónde encontrarlos
 
 | Criterio | Documento |
-|---|---|---|
+|---|---|
 | Caso de uso| [`docs/01_caso_de_uso.md`](docs/01_caso_de_uso.md) |
 | Tema del beneficio | [`docs/02_tema_beneficio.md`](docs/02_tema_beneficio.md) |
 | Visualización | [`docs/03_visualizacion.md`](docs/03_visualizacion.md) |
