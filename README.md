@@ -2,7 +2,7 @@
 
 Proyecto de Big Data: pipeline **Bronce → Silver → Gold** sobre el dataset *Historical Bakery Sales* (Kaggle: `sdcloud/historical-bakery-sales-dataset`), con pronóstico de demanda, segmentación de clientes y reglas de asociación, más un tablero de seguimiento comercial.
 
-**Integrantes:** [nombres]  ·  **Curso / especialización:** [nombre]  ·  **Fecha:** [fecha]
+**Integrantes:** [Jerson Emanuel Hermosa Bernal CC 1056786202, Antonio Alvarez Muñoz CC 1193368333]  ·  **Curso / especialización:** [Analítica de Datos]  ·  **Fecha:** [18/11/2026]
 
 ## Criterios de evaluación y dónde encontrarlos
 
@@ -43,8 +43,6 @@ Detalle de cada decisión: ver el notebook y [`docs/04_modelo.md`](docs/04_model
 │   ├── entregable_final.ipynb     # pipeline Medallion (VS Code, pandas + scikit-learn)
 │   └── databricks/                # notebook original con Spark
 ├── images/                        # capturas del tablero y del modelo
-├── reports/                       # PDF del tablero
-├── outputs/gold/                  # resultados de la capa Gold en CSV
 └── data/                          # instrucciones de descarga del dataset
 ```
 
