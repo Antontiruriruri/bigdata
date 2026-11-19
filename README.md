@@ -6,12 +6,12 @@ Proyecto de Big Data: pipeline **Bronce → Silver → Gold** sobre el dataset *
 
 ## Criterios de evaluación y dónde encontrarlos
 
-| Criterio | Peso | Documento |
+| Criterio | Documento |
 |---|---|---|
-| Caso de uso | 8 % | [`docs/01_caso_de_uso.md`](docs/01_caso_de_uso.md) |
-| Tema del beneficio | 8 % | [`docs/02_tema_beneficio.md`](docs/02_tema_beneficio.md) |
-| Visualización | 8 % | [`docs/03_visualizacion.md`](docs/03_visualizacion.md) |
-| Modelo | 8 % | [`docs/04_modelo.md`](docs/04_modelo.md) |
+| Caso de uso| [`docs/01_caso_de_uso.md`](docs/01_caso_de_uso.md) |
+| Tema del beneficio | [`docs/02_tema_beneficio.md`](docs/02_tema_beneficio.md) |
+| Visualización | [`docs/03_visualizacion.md`](docs/03_visualizacion.md) |
+| Modelo | [`docs/04_modelo.md`](docs/04_modelo.md) |
 | Pipeline Medallion | resto | [`notebooks/entregable_final.ipynb`](notebooks/entregable_final.ipynb) |
 
 ## Resumen de resultados
