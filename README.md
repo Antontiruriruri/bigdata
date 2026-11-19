@@ -2,7 +2,7 @@
 
 Proyecto de Big Data: pipeline **Bronce → Silver → Gold** sobre el dataset *Historical Bakery Sales* (Kaggle: `sdcloud/historical-bakery-sales-dataset`), con pronóstico de demanda, segmentación de clientes y reglas de asociación, más un tablero de seguimiento comercial.
 
-**Integrantes:** [nombres]  ·  **Curso / especialización:** [nombre]  ·  **Fecha:** [fecha]
+**Integrantes:** [Jerson Hermosa Bernal, Antonio Alvarez Muñoz]  ·  **Curso / especialización:** [Analitica de Datos]  ·  **Fecha:** [20261118]
 
 ## Criterios de evaluación y dónde encontrarlos
 
